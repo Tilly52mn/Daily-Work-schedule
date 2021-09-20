@@ -42,6 +42,8 @@ var auditTask = function (taskEl) {
 
     // convert to moment object at current hour
     var time = moment().format("H");
+    console.log(time)
+    console.log(timeBlock)
 // apply new class if task is past/current/or future time
     if (time > timeBlock) {
         $(taskEl).addClass("past");

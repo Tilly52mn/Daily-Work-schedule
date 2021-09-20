@@ -64,3 +64,6 @@ textarea{
 .saveBtn:hover {
   color: #000000;
 }
+.container{
+  padding-bottom: 2rem;
+}
