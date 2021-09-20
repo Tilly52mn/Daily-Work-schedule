@@ -15,5 +15,5 @@ https://tilly52mn.github.io/Daily-Work-schedule/
 Made by Adam Tilly
 
 ## snapshot of page
-![Webpage](https://user-images.githubusercontent.com/88518686/133547977-810fe121-9d73-4889-808b-83780abc57f0.PNG)
+![Webpage](https![website](https://user-images.githubusercontent.com/88518686/133954653-87c76393-69a8-43fb-869e-e67f1ae4951e.PNG)
 
